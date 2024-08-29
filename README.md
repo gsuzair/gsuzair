@@ -1,5 +1,5 @@
 # 💫 About Me:
-Specializing in backend technologies with a focus on Laravel, Node.js, JavaScript, PostgreSQL, Laravel, microservices, monolithic, Redis, Docker, AWS. Currently deepening my expertise in Microservices, System Design, and Distributed Systems while learning TypeScript.
+Specializing in Full Stack technologies with a focus on Laravel, Node.js, JavaScript, ReactJS, VueJS, PostgreSQL, MySQL, Redis, Docker, AWS. Currently deepening my expertise in Microservices, System Design, and Distributed Systems while learning TypeScript.
 Passionate about collaborating on innovative and impactful projects that leverage cutting-edge technologies.
 
 # How to Reach Me:
